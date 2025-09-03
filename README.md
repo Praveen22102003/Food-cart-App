@@ -19,5 +19,5 @@ This project demonstrates how to manage products, cart functionality, and dynami
 ##  Tech Stack
 - **Frontend:** React.js, CSS  
 - **State Management:** React Hooks (`useState`, `useEffect`)  
-- **Styling:** CSS /  
+- **Styling:** CSS 
 
